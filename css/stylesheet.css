@@ -28,7 +28,12 @@ a {
   text-decoration: none;
 }
 
-/* Start */
+.responsive {
+  height: auto;
+  max-width: 100%;
+}
+
+/* Header */
 
 #background {
   margin: 0;
